@@ -1,0 +1,15 @@
+﻿  TextBox.cpp
+c:\users\asafl\desktop\c++\ama-label\ama-label\textbox.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Label.cpp
+c:\users\asafl\desktop\c++\ama-label\ama-label\label.cpp(18): warning C4244: 'argument': conversion from 'unsigned long' to 'WORD', possible loss of data
+  Graphics.cpp
+c:\users\asafl\desktop\c++\ama-label\ama-label\common\graphics.cpp(94): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  EventEngine.cpp
+  Control.cpp
+  Checklist.cpp
+c:\users\asafl\desktop\c++\example\checklist\checklist.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\asafl\desktop\c++\example\checklist\checklist.cpp(91): warning C4018: '>=': signed/unsigned mismatch
+c:\users\asafl\desktop\c++\example\checklist\checklist.cpp(118): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AMA-Label.vcxproj -> C:\Users\asafl\Desktop\c++\AMA-Label\Debug\AMA-Label.exe

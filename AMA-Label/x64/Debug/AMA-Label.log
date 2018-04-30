@@ -1,0 +1,18 @@
+﻿  TextBox.cpp
+c:\users\asafl\desktop\c++\ama-label\ama-label\textbox.cpp(19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\textbox.cpp(73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\textbox.cpp(80): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Graphics.cpp
+c:\users\asafl\desktop\c++\ama-label\ama-label\common\graphics.cpp(38): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\common\graphics.cpp(43): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\common\graphics.cpp(94): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  Control.cpp
+  Checklist.cpp
+c:\users\asafl\desktop\c++\ama-label\ama-label\checklist.h(19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\checklist.cpp(12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\checklist.cpp(50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\checklist.cpp(73): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asafl\desktop\c++\ama-label\ama-label\checklist.cpp(77): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  AMA-Label.vcxproj -> C:\Users\asafl\Desktop\c++\AMA-Label\x64\Debug\AMA-Label.exe
